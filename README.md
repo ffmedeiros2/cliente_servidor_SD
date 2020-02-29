@@ -1,6 +1,6 @@
 # Cliente-Servidor
 
-Este trabalho é composto por um servidor REST desenvolvido utilizando o framework [Spring](https://spring.io) e um cliente utilizando 
+Este trabalho foi realizado como atividade para a disciplina de sistemas distribuídos e é composto por um servidor REST desenvolvido utilizando o framework [Spring](https://spring.io) e um cliente utilizando 
 [JavaFX](https://wiki.openjdk.java.net/display/OpenJFX/Main) e [OKHttp](http://square.github.io/okhttp/). Ambos cliente e servidor são bastante simples. 
 O servidor não realiza acesso à banco, ele apenas possui uma lista de 20 clientes, não clientes consumidores do serviço do servidor, 
 mas objetos com nome e idade. Por sua vez o cliente é apenas uma tela com um campo textual, um botão e algumas labels.
